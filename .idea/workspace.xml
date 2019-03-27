@@ -22,8 +22,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="323">
+              <caret line="22" column="131" selection-start-line="22" selection-start-column="131" selection-end-line="22" selection-end-column="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/not_processed_files/242860.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/not_processed_files/bg-09.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/gm/lib/command.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="238" column="40" selection-start-line="238" selection-start-column="40" selection-end-line="238" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -35,14 +54,18 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="153">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -65,6 +88,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ok</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -74,15 +102,15 @@
         <option value="$PROJECT_DIR$/gitignore" />
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/server.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="151" />
-    <option name="y" value="26" />
+    <option name="x" value="150" />
+    <option name="y" value="25" />
     <option name="width" value="1145" />
     <option name="height" value="490" />
   </component>
@@ -96,12 +124,22 @@
         <subPane>
           <expand>
             <path>
-              <item name="M152-Lb1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M152-Lb1" type="462c0819:PsiDirectoryNode" />
+              <item name="m152-lb1-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="m152-lb1-2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="M152-Lb1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M152-Lb1" type="462c0819:PsiDirectoryNode" />
+              <item name="m152-lb1-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="m152-lb1-2" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="m152-lb1-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="m152-lb1-2" type="462c0819:PsiDirectoryNode" />
+              <item name="not_processed_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="m152-lb1-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="m152-lb1-2" type="462c0819:PsiDirectoryNode" />
               <item name="server.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
@@ -129,6 +167,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\m152-lb1-2" />
       <recent name="C:\Users\vmadmin\WebstormProjects\M152-Lb1" />
     </key>
   </component>
@@ -161,11 +200,12 @@
       <workItem from="1553674849915" duration="47000" />
       <workItem from="1553674908295" duration="48000" />
       <workItem from="1553675039797" duration="225000" />
+      <workItem from="1553703914127" duration="6369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9618000" />
+    <option name="totallyTimeSpent" value="15987000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,8 +217,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="761" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
+      <window_info id="npm" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -193,7 +234,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3292978" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32750398" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -221,30 +262,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gm/lib/command.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="238" column="40" selection-start-line="238" selection-start-column="40" selection-end-line="238" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/not_processed_files/bg-09.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/not_processed_files/242860.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="131" selection-start-line="22" selection-start-column="131" selection-end-line="22" selection-end-column="131" />
         </state>
       </provider>
     </entry>
